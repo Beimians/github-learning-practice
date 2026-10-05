@@ -1,0 +1,10 @@
+{
+  "name": "github-learning-practice",
+  "private": true,
+  "scripts": {
+    "lint:html": "htmlhint index.html"
+  },
+  "devDependencies": {
+    "htmlhint": "1.9.2"
+  }
+}
